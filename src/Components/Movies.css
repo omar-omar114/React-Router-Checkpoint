@@ -1,0 +1,12 @@
+.listMovies {
+    text-align: center;
+    background-color : grey;
+    display : grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 5%;
+  }
+
+.movieStyle {
+    display : flex;
+    padding : 5%;
+}
